@@ -1,4 +1,4 @@
-# Date-enterer
+# date-enterer
 
 Implementation is easy
 
